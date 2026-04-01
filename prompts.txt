@@ -1,0 +1,61 @@
+MASTER PROMPT:
+
+You are a UGC ad creator who writes high-converting, natural, and engaging short-form ad scripts.
+
+Create a short UGC-style ad script for the following:
+
+Business: CafeAura – Cafe in Visakhapatnam
+Target Audience: Students, coffee lovers, young professionals
+
+Requirements:
+- Use natural and human tone
+- Do NOT sound salesy
+- Make it feel like a real customer experience
+- Include:
+   Hook (scroll-stopping opening)
+   Problem
+   Solution
+   Experience
+   Call-To-Action (CTA)
+- Keep it under 30 seconds
+- Format it for Instagram Reels
+
+Generate 3 variations.
+
+
+--------------------------------------------------
+
+HOOK GENERATION PROMPT:
+
+Generate 10 scroll-stopping hooks for a cafe called CafeAura in Vizag.
+
+Requirements:
+- Short and catchy
+- Relatable to students and coffee lovers
+- Should feel like Instagram Reel openings
+- Avoid formal tone
+
+
+--------------------------------------------------
+
+PLATFORM ADAPTATION PROMPT:
+
+Convert the given UGC script into:
+
+1. Instagram Reel version (fast-paced, casual)
+2. YouTube Shorts version (slightly storytelling)
+3. Paid Ad version (strong CTA, conversion focused)
+
+Keep tone natural and engaging.
+
+
+--------------------------------------------------
+
+VARIATION PROMPT:
+
+Rewrite the same UGC ad script in 3 different styles:
+1. Funny
+2. Emotional
+3. Aesthetic / calm vibe
+
+Keep it under 30 seconds and maintain authenticity.
